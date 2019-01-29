@@ -4,7 +4,7 @@
 
 **Description:**
 
-CHANGEME Description of the problem or issue here.
+Description of the problem or issue here.
 
 **Current behaviour:**
 
