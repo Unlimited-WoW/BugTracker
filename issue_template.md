@@ -14,6 +14,10 @@ Tell us what happens.
 
 Tell us what should happen instead.
 
+**Source:**
+
+Proof, e.g wowwiki link.
+
 **Steps to reproduce the problem:**
 
 1. Step 1 include entries of affected creatures / items / quests with a link to the relevant wowhead page.  
